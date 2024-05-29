@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="origin"
-          fetch="ssh://github.com/yurii-holyk/"
+          fetch="ssh://git@github.com/yurii-holyk/"
           review="https://github.com/yurii-holyk/" />
 
   <default remote="origin"
