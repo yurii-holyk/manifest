@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="origin"
+          fetch="https://github.com/yurii-holyk"
+          review= />
+
+  <default revision="refs/head/main"
+           remote="origin"
+           sync-j="8"
+           revision="main" />
+
+  <project path="component_1_repo" name="component_1_repo" />
+  <project path="component_2_repo" name="component_1_repo" />
+  <project path="component_3_repo" name="component_1_repo" />
+  <project path="component_4_repo" name="component_1_repo" />
+  <project path="component_5_repo" name="component_1_repo" />
+
+  <project path="manifest" name="manifest" />
+
+  <project path="build" name="build">
+    <linkfile dest="build.sh" src="build.sh" />
+  </project>
+
+</manifest>
