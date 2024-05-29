@@ -4,8 +4,7 @@
   <remote name="origin"
           fetch="ssh://git@github.com/yurii-holyk" />
 
-  <default revision="refs/head/main"
-           remote="origin"
+  <default remote="origin"
            sync-j="8"
            revision="main" />
 
