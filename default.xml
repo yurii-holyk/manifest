@@ -7,13 +7,13 @@
 
   <default remote="origin"
            sync-j="8"
-           revision="main" />
+           revision="feature" />
 
   <project path="component_1_repo" name="component_1_repo" />
-  <project path="component_2_repo" name="component_1_repo" />
-  <project path="component_3_repo" name="component_1_repo" />
-  <project path="component_4_repo" name="component_1_repo" />
-  <project path="component_5_repo" name="component_1_repo" />
+  <project path="component_2_repo" name="component_2_repo" />
+  <project path="component_3_repo" name="component_3_repo" />
+  <project path="component_4_repo" name="component_4_repo" />
+  <project path="component_5_repo" name="component_5_repo" />
 
   <project path="manifest" name="manifest" />
 
