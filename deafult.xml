@@ -2,8 +2,7 @@
 <manifest>
 
   <remote name="origin"
-          fetch="https://github.com/yurii-holyk"
-          review= />
+          fetch="ssh://git@github.com/yurii-holyk" />
 
   <default revision="refs/head/main"
            remote="origin"
