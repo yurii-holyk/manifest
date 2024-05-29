@@ -2,7 +2,8 @@
 <manifest>
 
   <remote name="origin"
-          fetch="ssh://git@github.com/yurii-holyk" />
+          fetch="ssh://git@github.com/yurii-holyk"
+          rewiew="https://github.com/yurii-holyk" />
 
   <default remote="origin"
            sync-j="8"
