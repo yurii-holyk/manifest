@@ -2,8 +2,7 @@
 <manifest>
 
   <remote name="origin"
-          fetch="ssh://git@github.com/yurii-holyk/"
-          review="https://ip.pyhead.net/shell" />
+          fetch="https://git@github.com/yurii-holyk/" />
 
   <default remote="origin"
            sync-j="8"
