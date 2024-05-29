@@ -2,7 +2,8 @@
 <manifest>
 
   <remote name="origin"
-          fetch="https://git@github.com/yurii-holyk/" />
+          fetch="https://git@github.com/yurii-holyk/"
+          review="https://astemoelite.globallogic.com/stage-gerrit/" />
 
   <default remote="origin"
            sync-j="8"
